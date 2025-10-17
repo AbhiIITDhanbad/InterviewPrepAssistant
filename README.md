@@ -1,3 +1,2 @@
 # InterviewPrepAssistant
-This AI Interview Preparation Assistant helps candidates excel in technical interviews by generating personalized questions based on their resume and target role. The platform provides comprehensive answer evaluation with detailed feedback to improve interview performance.
-
+This AI Interview Preparation Assistant helps candidates excel in technical interviews by generating personalized questions based on their resume and target role. The platform provides comprehensive answer evaluation with detailed feedback to improve interview performance...
