@@ -1,0 +1,53 @@
+{
+  "Data Science": [
+    "Python", "R", "SQL", "Pandas", "NumPy", "SciPy", "Scikit-learn", "Statsmodels",
+    "TensorFlow", "Keras", "PyTorch", "XGBoost", "LightGBM", "CatBoost",
+    "Spark", "PySpark", "MLlib", "Data Visualization", "Matplotlib", "Seaborn",
+    "Plotly", "Tableau", "Power BI", "Statistics", "A/B Testing", "Experimentation",
+    "Machine Learning", "Deep Learning", "NLP", "Spacy", "NLTK", "Hugging Face",
+    "Transformers", "Computer Vision", "OpenCV", "MLOps", "MLflow", "Kubeflow"
+  ],
+  "Data Engineering": [
+    "ETL", "ELT", "Data Warehousing", "Data Modeling", "SQL", "Python", "Java", "Scala",
+    "Apache Spark", "Apache Flink", "Apache Kafka", "RabbitMQ", "Data Pipelines",
+    "Airflow", "Luigi", "Prefect", "Dagster", "Snowflake", "BigQuery", "Redshift",
+    "Databricks", "Hadoop", "HDFS", "MapReduce", "Hive", "DBT", "Data Quality",
+    "Data Governance", "Stream Processing"
+  ],
+  "Backend Development": [
+    "Java", "Spring Boot", "Go", "Golang", "Rust", "Node.js", "Express.js", "Python",
+    "Django", "Flask", "FastAPI", "Ruby on Rails", "C#", ".NET", "PHP", "Laravel",
+    "PostgreSQL", "MySQL", "MongoDB", "Cassandra", "DynamoDB", "Redis", "Elasticsearch",
+    "REST API", "GraphQL", "gRPC", "Microservices", "Docker", "Kubernetes",
+    "Serverless", "AWS Lambda", "System Design", "CI/CD", "Unit Testing", "Caching"
+  ],
+  "Frontend Development": [
+    "HTML5", "CSS3", "SASS", "LESS", "JavaScript", "TypeScript", "React", "Next.js",
+    "Angular", "Vue.js", "Svelte", "Redux", "MobX", "Webpack", "Vite", "Babel",
+    "ESLint", "Jest", "React Testing Library", "Cypress", "Playwright",
+    "UI/UX", "Responsive Design", "Web Performance", "Accessibility", "GraphQL", "Apollo Client"
+  ],
+  "Cloud & DevOps": [
+    "AWS", "GCP", "Azure", "Docker", "Kubernetes", "Terraform", "Ansible", "Pulumi",
+    "CI/CD", "Jenkins", "GitLab CI", "GitHub Actions", "CircleCI", "Linux", "Bash Scripting",
+    "Prometheus", "Grafana", "Datadog", "Splunk", "ELK Stack", "Infrastructure as Code",
+    "Networking", "VPC", "DNS", "Load Balancing", "Security Groups", "IAM"
+  ],
+  "Mobile Development": [
+    "Swift", "SwiftUI", "UIKit", "Kotlin", "Java", "Jetpack Compose", "Flutter", "Dart",
+    "React Native", "iOS", "Android", "Xcode", "Android Studio", "Core Data", "Realm",
+"Room", "Firebase", "REST API", "GraphQL", "Unit Testing", "UI Testing", "App Store Connect", "Google Play Console"
+  ],
+  "Site Reliability Engineering (SRE)": [
+    "Observability", "Monitoring", "Logging", "Tracing", "Prometheus", "Grafana",
+    "Datadog", "New Relic", "Incident Management", "Postmortems", "SLO", "SLI", "SLA",
+    "On-call", "Automation", "Python", "Go", "Bash", "Kubernetes", "Terraform",
+    "Capacity Planning", "Performance Tuning", "Linux", "Networking"
+  ],
+  "QA & Test Automation": [
+    "Selenium", "Cypress", "Playwright", "Appium", "Jest", "Pytest", "JUnit", "TestNG",
+    "Cucumber", "BDD", "Gherkin", "Postman", "SoapUI", "JMeter", "LoadRunner",
+    "Performance Testing", "Stress Testing", "Load Testing", "CI/CD", "Jenkins",
+    "Test Planning", "Test Cases", "Bug Tracking", "Jira", "SQL"
+  ]
+}

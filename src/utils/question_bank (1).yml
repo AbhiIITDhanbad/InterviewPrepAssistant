@@ -1,0 +1,121 @@
+# ===================================================================
+# MAANG-Ready Interview Prep Assistant - Question Bank
+# ===================================================================
+# This file serves as the curated knowledge base for the RAG system.
+# Each entry is a dictionary with the following keys:
+#   - question: The interview question text.
+#   - skill: The primary skill this question targets.
+#   - level: The difficulty level (Beginner, Intermediate, Advanced).
+#   - type: The question type (Technical, Behavioral).
+# -------------------------------------------------------------------
+
+# --- Data Science & Machine Learning ---
+- question: "What is the difference between supervised and unsupervised learning? Give a business example for each."
+  skill: "Machine Learning"
+  level: "Beginner"
+  type: "Technical"
+
+- question: "Explain the bias-variance tradeoff. How does it affect model complexity?"
+  skill: "Machine Learning"
+  level: "Intermediate"
+  type: "Technical"
+
+- question: "Describe the architecture of a Transformer model. What is the role of the self-attention mechanism?"
+  skill: "Deep Learning"
+  level: "Advanced"
+  type: "Technical"
+
+- question: "Tell me about a project where your model's performance did not meet expectations. How did you diagnose the issue and what did you learn?"
+  skill: "Machine Learning"
+  level: "Intermediate"
+  type: "Behavioral"
+
+# --- Backend Development ---
+- question: "What is the difference between a monolith and a microservices architecture? What are the pros and cons of each?"
+  skill: "System Design"
+  level: "Intermediate"
+  type: "Technical"
+
+- question: "Explain the concept of database indexing. Why is it important for performance?"
+  skill: "PostgreSQL"
+  level: "Beginner"
+  type: "Technical"
+
+- question: "How would you design a rate limiter for an API? Discuss different algorithms you might use."
+  skill: "System Design"
+  level: "Advanced"
+  type: "Technical"
+
+- question: "Describe a time you had to debug a critical production issue. What was your process, and how did you ensure it wouldn't happen again?"
+  skill: "Java"
+  level: "Intermediate"
+  type: "Behavioral"
+
+# --- Frontend Development ---
+- question: "What is the browser's critical rendering path? How would you optimize it?"
+  skill: "React"
+  level: "Intermediate"
+  type: "Technical"
+
+- question: "Explain the difference between `let`, `const`, and `var` in JavaScript."
+  skill: "JavaScript"
+  level: "Beginner"
+  type: "Technical"
+
+- question: "Tell me about a time you had to collaborate with a designer whose vision was technically challenging to implement. How did you handle it?"
+  skill: "UI/UX"
+  level: "Intermediate"
+  type: "Behavioral"
+
+# --- Cloud & DevOps ---
+- question: "What is Infrastructure as Code (IaC)? Why is it a fundamental concept in DevOps?"
+  skill: "Terraform"
+  level: "Intermediate"
+  type: "Technical"
+
+- question: "Explain the difference between a Docker container and a virtual machine."
+  skill: "Docker"
+  level: "Beginner"
+  type: "Technical"
+
+- question: "Describe a CI/CD pipeline you have built or maintained. What were the key stages and tools used?"
+  skill: "CI/CD"
+  level: "Intermediate"
+  type: "Behavioral"
+
+- question: "How does Kubernetes handle service discovery and load balancing?"
+  skill: "Kubernetes"
+  level: "Advanced"
+  type: "Technical"
+
+# --- Data Engineering ---
+- question: "What is the difference between ETL and ELT? Provide a use case where ELT would be preferable."
+  skill: "ETL"
+  level: "Intermediate"
+  type: "Technical"
+
+- question: "Explain the concept of data partitioning in a distributed system like Spark or a data warehouse like Snowflake."
+  skill: "Spark"
+  level: "Advanced"
+  type: "Technical"
+
+- question: "Describe a data pipeline you built that was business-critical. What were the challenges related to data quality and reliability?"
+  skill: "Airflow"
+  level: "Intermediate"
+  type: "Behavioral"
+
+# --- SQL (Common across many roles) ---
+- question: "What are window functions in SQL? Provide an example of how you would use ROW_NUMBER() or RANK()."
+  skill: "SQL"
+  level: "Intermediate"
+  type: "Technical"
+
+- question: "Explain the difference between a LEFT JOIN and an INNER JOIN."
+  skill: "SQL"
+  level: "Beginner"
+  type: "Technical"
+
+- question: "Tell me about a time you had to optimize a slow-running SQL query. What was your process, and what was the outcome?"
+  skill: "SQL"
+  level: "Advanced"
+  type: "Behavioral"
