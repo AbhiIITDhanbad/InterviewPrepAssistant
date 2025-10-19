@@ -7,7 +7,7 @@
 #   - skill: The primary skill this question targets.
 #   - level: The difficulty level (Beginner, Intermediate, Advanced).
 #   - type: The question type (Technical, Behavioral).
-# -------------------------------------------------------------------
+# --------------------------------------------------------------------
 
 # --- Data Science & Machine Learning ---
 - question: "What is the difference between supervised and unsupervised learning? Give a business example for each."
@@ -118,4 +118,5 @@
 - question: "Tell me about a time you had to optimize a slow-running SQL query. What was your process, and what was the outcome?"
   skill: "SQL"
   level: "Advanced"
+
   type: "Behavioral"
