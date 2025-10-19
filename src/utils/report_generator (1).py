@@ -6,7 +6,7 @@ from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.platypus import Paragraph
 from reportlab.lib.units import inch
 
-# --- Setup a dedicated logger for this module ---
+# --- Setup a dedicated logger for this module ----
 logger = logging.getLogger(__name__)
 
 # --- Helper function to draw wrapped text and manage layout flow ---
@@ -116,4 +116,5 @@ def create_pdf_report(file_path: str, report_data: dict):
         logger.info(f"Successfully generated PDF report at {file_path}")
 
     except Exception as e:
+
         logger.error(f"Failed to generate PDF report: {e}", exc_info=True)
