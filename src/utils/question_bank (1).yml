@@ -1,6 +1,4 @@
-# ===================================================================
-# MAANG-Ready Interview Prep Assistant - Question Bank
-# ===================================================================
+
 # This file serves as the curated knowledge base for the RAG system.
 # Each entry is a dictionary with the following keys:
 #   - question: The interview question text.
@@ -120,3 +118,4 @@
   level: "Advanced"
 
   type: "Behavioral"
+
