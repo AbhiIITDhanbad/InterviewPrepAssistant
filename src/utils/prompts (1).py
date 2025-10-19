@@ -1,6 +1,6 @@
 # src/utils/prompts.py
 
-# Notice the change in the instructions and the description of the input
+# Notice the change in the instructions and the description of the input.
 QUESTION_PROMPT_TEMPLATE = """You are an expert technical interviewer for elite tech companies.
 Your task is to generate highly specific interview questions based on a candidate's structured resume data.
 
@@ -72,4 +72,5 @@ TECHNICAL QUESTIONS:
 1. [Question 1]
 2. [Question 2]
 3. [Question 3]
+
 """
