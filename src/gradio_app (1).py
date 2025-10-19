@@ -291,7 +291,7 @@ def create_interface():
     return demo
 
 if __name__ == "__main__":
-    # Configure logging for the main app
+    # Configure logging for the main app...w
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     logger.info("Starting MAANG-Ready Interview Assistant...")
     app = create_interface()
