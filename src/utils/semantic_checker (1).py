@@ -6,7 +6,7 @@ import torch
 # --- Setup a dedicated logger for this module ---
 logger = logging.getLogger(__name__)
 
-# --- Load the model only ONCE when the app starts for efficiency ---
+# --- Load the model only ONCE when the app starts for efficiency ----
 try:
     # 'all-MiniLM-L6-v2' is a great choice: fast, lightweight, and high-quality.
     MODEL = SentenceTransformer('all-MiniLM-L6-v2')
@@ -51,4 +51,5 @@ def calculate_similarity(user_answer: str, reference_answer: str) -> float:
 
     except Exception as e:
         logger.error("Error during similarity calculation: %s", e, exc_info=True)
+
         return 0.0
