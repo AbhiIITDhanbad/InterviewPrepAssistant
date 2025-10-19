@@ -7,7 +7,7 @@ import re
 import logging
 from collections import defaultdict
 
-# --- Setup a dedicated logger for this module ---
+# --- Setup a dedicated logger for this module ----
 logger = logging.getLogger(__name__)
 
 # --- CRITICAL OPTIMIZATION: Load the model only ONCE when the app starts ---
