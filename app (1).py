@@ -3,7 +3,7 @@ import os
 import sys
 import logging
 
-# --- 1. Add the 'src' directory to the Python path ---
+# ---- 1. Add the 'src' directory to the Python path ---
 current_dir = os.path.dirname(os.path.abspath(__file__))
 src_path = os.path.join(current_dir, 'src')
 sys.path.insert(0, src_path)
