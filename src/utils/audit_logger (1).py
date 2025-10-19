@@ -2,7 +2,7 @@ import logging
 from pythonjsonlogger import jsonlogger
 import os
 
-# --- Define Project Root for a reliable path ---
+# --- Define Project Root for a reliable path ----
 # This assumes this file is in src/utils/
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 LOG_FILE_PATH = os.path.join(PROJECT_ROOT, "audit_log.jsonl")
