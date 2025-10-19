@@ -2,7 +2,7 @@ import fitz  # PyMuPDF library, which is more robust for complex layouts
 import logging
 import os
 
-# --- Setup a dedicated logger for this module ---
+# --- Setup a dedicated logger for this module ----
 # This is better than print() for production applications
 logger = logging.getLogger(__name__)
 
@@ -56,4 +56,5 @@ if __name__ == "__main__":
         else:
             print("\n❌ Failed to read PDF. Check logs for details.")
     else:
+
         print(f"\n⚠️ Test skipped: Please add a PDF file at '{sample_file_path}' to run this local test.")
