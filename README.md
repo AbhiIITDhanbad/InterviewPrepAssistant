@@ -1,7 +1,7 @@
 # 🎯 InterviewPrep Assistant
 
 An AI-powered interview coach that generates personalized questions from your resume and provides in-depth, hybrid evaluations of your answers. Built with Google's Gemini 1.5 Flash, spaCy, and a custom RAG (Retrieval-Augmented Generation) pipeline.
-
+## Project Demo: https://drive.google.com/file/d/1-z1w5WeHih1dPtDtXrqvi380MDgqT1ZK/view?usp=sharing
 
 ## ✨ Key Features
 
